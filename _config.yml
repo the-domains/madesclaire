@@ -1,0 +1,28 @@
+name: madesclaire
+favicon: null
+layout_spectrum: 0.8694062030408531
+typography_spectrum: 0.7254451944027096
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.08601071545854211
+  lightness: 0.6535168297123164
+  saturation: 0.49193462752737105
+  rhythmicContrast: 0.18440203904174268
+purpose: []
